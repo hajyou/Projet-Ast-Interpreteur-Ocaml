@@ -1,5 +1,3 @@
-(**tdl2 *)
-
 (* Define : <- *)
 (* Seq : ; *)
 (* Define : repeat m do m od*)
