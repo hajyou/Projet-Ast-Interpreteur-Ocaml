@@ -68,7 +68,7 @@ x <- 5 ; y <- 37 ; z <- (x + y)
 ### Compilation simple
 
 ```bash
-ocamlc Ast_Interpreter.ml
+ocamlc Ast_Interpreteur.ml
 ```
 ---
 
