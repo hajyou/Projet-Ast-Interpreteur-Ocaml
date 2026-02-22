@@ -68,7 +68,16 @@ x <- 5 ; y <- 37 ; z <- (x + y)
 ### Compilation simple
 
 ```bash
-ocamlc Ast_Interpreteur.ml
+ocamlc -o ast_interpreteur Ast_Interpreteur.ml
+```
+---
+
+## 🏁 Lancer
+
+### Lancement simple
+
+```bash
+./ast_interpreteur
 ```
 ---
 
