@@ -41,7 +41,7 @@ let y = Define ("y", Cst 37);;
 let z = Define ("z", Opbin (Plus, Var "x", Var "y"));;
 let seq = Sequence (x, Sequence (y, z));;
 
-print_endline (afficher_exp_bcl seq);;
+let () = print_endline (afficher_exp_bcl seq)
 ```
 
 Sortie :
