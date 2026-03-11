@@ -1,4 +1,4 @@
-**OCaml • AST • Interpréteur**
+**OCaml - AST - Interpréteur**
 
 Implémentation d’un mini langage impératif en OCaml basé sur un arbre de syntaxe abstraite (AST).
 
